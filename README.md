@@ -24,4 +24,11 @@
 [다운로드 링크](https://drive.google.com/drive/folders/1QAlsC0iHkTiFLj-cf5hZOS7XZ1euqeaV?usp=drive_link)
 
 
+
+**참고:** 실행 파일은 "My final" 폴더 안에 있습니다.
+
+## 게임 실행
+
+프로젝트 파일을 다운로드하고 "My final" 폴더 안에 있는 실행 파일을 실행하여 게임을 시작할 수 있습니다.
+
 이제 게임을 실행해도 좋습니다!
