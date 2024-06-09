@@ -1,12 +1,5 @@
 # Unity_project
 
-
-## 다운로드 링크
-
-프로젝트 파일은 다음 링크에서 다운로드할 수 있습니다.
-
-[다운로드 링크](https://drive.google.com/drive/folders/1QAlsC0iHkTiFLj-cf5hZOS7XZ1euqeaV?usp=drive_link)
-
 # 게임 실행 전 디스플레이 설정
 게임을 원활하게 실행하기 위해, 다음 단계를 따라 디스플레이 설정을 조정해주세요:
 
@@ -23,6 +16,11 @@
 
   - 해상도 선택 후, 변경 사항을 적용합니다.
 
+## 다운로드 링크
+
+프로젝트 파일은 다음 링크에서 다운로드할 수 있습니다.
+
+[다운로드 링크](https://drive.google.com/drive/folders/1QAlsC0iHkTiFLj-cf5hZOS7XZ1euqeaV?usp=drive_link)
+
 
 이제 게임을 실행해도 좋습니다!
-
